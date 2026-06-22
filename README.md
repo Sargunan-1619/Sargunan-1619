@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sargunan-1619/Sargunan-1619/main/banner.png" width="100%">
+</p>
 # Hi, I'm Sargunan 👋
 
 🚀 Full-Stack Developer | React.js | Node.js | AI Enthusiast
