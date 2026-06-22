@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Sargunan 👋
 
-<!--
-**Sargunan-1619/Sargunan-1619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer
 
-Here are some ideas to get you started:
+🎓 B.Tech ECE @ SASTRA University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- MySQL
+- Git & GitHub
+
+## Projects
+
+### AI Resume Coach
+ATS score analysis and resume optimization.
+
+### Customer Support AI Agent
+AI chatbot for automated customer support.
+
+### Virtual Air Writer
+Computer vision based finger-writing system.
+
+## Connect
+
+LinkedIn:
+www.linkedin.com/in/sargunan-chandran16
+
+Email:
+csargunan04@gmail.com
