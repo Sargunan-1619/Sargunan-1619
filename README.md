@@ -1,6 +1,13 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sargunan-1619/Sargunan-1619/main/banner.png" width="100%">
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sargunan-1619&show_icons=true&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sargunan-1619&theme=github-dark-blue" />
+</p>
 # Hi, I'm Sargunan 👋
 
 🚀 Full-Stack Developer | React.js | Node.js | AI Enthusiast
